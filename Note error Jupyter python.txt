@@ -1,0 +1,14 @@
+- Can't import from scpiy.stats import binom
+=======>
+1. Open folder dicrectory with cmd
+2. conda activate
+3. jupyter notebook
+=======> Finish
+
+- Kernel not connected in jupyter
+=======>
+1. Open folder dicrectory with cmd
+2. conda activate
+3. python -m ipykernel install --user
+4. jupyter notebook
+=======> Finish
